@@ -2,4 +2,4 @@ name: Dyniva Replica Database
 type: module
 description: 'Overwrite db query to replica database'
 package: Dyniva
-core: 8.x
+core_version_requirement: ^8.8 || ^9
